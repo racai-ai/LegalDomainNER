@@ -1,0 +1,9 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC RELATE:NE RELATE:GEONAMES
+# text = ORDIN nr. 191 din 23 septembrie 2019
+1	ORDIN	ordin	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	SpacesBefore=\r\n	B-LEGAL	_
+2	nr.	nr.	NOUN	Yn	Abbr=Yes	0	root	_	_	I-LEGAL	_
+3	191	191	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	2	nummod	_	_	I-LEGAL	_
+4	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_	I-LEGAL	_
+5	23	23	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	6	nummod	_	_	I-LEGAL	_
+6	septembrie	septembrie	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	2	nmod	_	_	I-LEGAL	_
+7	2019	2019	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	6	nummod	_	SpacesAfter=\r\n	I-LEGAL	_
